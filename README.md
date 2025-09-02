@@ -1,6 +1,4 @@
-Exercicio MongoDB Matéria Architecture Analytics And NoSQL da FIAP
-
-Instruções
+Exercício da metéria Architecture Analytics And NoSQL da FIAP
 
 Você foi contratado para criar um pequeno sistema de análise de vendas.
 A empresa precisa armazenar e consultar informações de clientes, produtos e pedidos.
@@ -23,14 +21,10 @@ Pedidos devem ter referência ao cliente, lista de produtos e data.
 Atividades
 Cadastro Inicial
 
-1) Insira pelo menos 3 clientes, 3 produtos e 3 pedidos.
+Insira pelo menos 3 clientes, 3 produtos e 3 pedidos.
 
-2) Consultas Avançadas
-3) 
+Consultas Avançadas
 a) Liste todos os pedidos de um cliente específico.
-
 b) Encontre todos os produtos de uma determinada categoria.
-
 c) Liste apenas o nome e a cidade dos clientes (projeção).
-
 d) Liste os pedidos ordenados por data (mais recente primeiro).
