@@ -26,7 +26,11 @@ Cadastro Inicial
 1) Insira pelo menos 3 clientes, 3 produtos e 3 pedidos.
 
 2) Consultas Avançadas
+3) 
 a) Liste todos os pedidos de um cliente específico.
+
 b) Encontre todos os produtos de uma determinada categoria.
+
 c) Liste apenas o nome e a cidade dos clientes (projeção).
+
 d) Liste os pedidos ordenados por data (mais recente primeiro).
