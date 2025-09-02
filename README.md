@@ -14,8 +14,11 @@ Via API em Python (Flask ou FastAPI), conectando ao MongoDB e expondo endpoints 
 Premissas:
 
 Clientes devem ter nome, email e cidade.
+
 Produtos devem ter nome, categoria e preço.
+
 Pedidos devem ter referência ao cliente, lista de produtos e data.
+
 
 Atividades
 Cadastro Inicial
