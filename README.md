@@ -1,5 +1,7 @@
 Exercicio MongoDB Matéria Architecture Analytics And NoSQL da FIAP
+
 Instruções
+
 Você foi contratado para criar um pequeno sistema de análise de vendas.
 A empresa precisa armazenar e consultar informações de clientes, produtos e pedidos.
 
